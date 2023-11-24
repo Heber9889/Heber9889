@@ -1,12 +1,11 @@
+<hr>
 <section>
-## :memo: Sejam Bem Vindos 👋
+<h1 align="center"> :memo: Sejam Bem Vindos 👋 </h1>
 </section>
 <hr>
-<h1 align="center"> /Heber9889 #: Mais Sobre Mim </h1>
-
-
-
-
-<h1 align="center">:file_cabinet:  ✨Me Conhecem Como Tom✨ </h1>
+<h2 align="center"> /Heber9889 #: Mais Sobre Mim </h2>
+<hr>
+<h3 align="center">:file_cabinet:  ✨Me Conhecem Como Tom✨ </h3>
+<hr>
 
 
